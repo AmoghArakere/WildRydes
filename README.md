@@ -6,4 +6,4 @@ Link to Application : https://master.d24bpaklzws1nf.amplifyapp.com/
 <strong>Architecture</strong> :
 
 
-![image](https://github.com/AmoghArakere/WildRydes/assets/90240269/1806cb89-32b5-442c-bd6c-abea4566d69d)
+
